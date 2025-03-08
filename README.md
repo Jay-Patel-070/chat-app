@@ -55,7 +55,7 @@ flutter run
 
 🔹 Profile customization
 
-🔹 Dark mode support
+🔹 Read Receipts
 
 🤝 Contributing
 
