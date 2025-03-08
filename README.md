@@ -1,6 +1,6 @@
 Jay Chat Zone 🗨️🔥
 
-Jay Chat Zone is a real-time one-on-one chat application built with Flutter and Firebase. It provides a seamless chatting experience with real-time messaging, read receipts, and secure authentication.
+Jay Chat Zone is a real-time one-on-one chat application built with Flutter and Firebase. It provides a seamless chatting experience with real-time messaging, and secure authentication.
 
 ✨ Features
 
