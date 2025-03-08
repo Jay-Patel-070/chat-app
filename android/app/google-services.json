@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59071858855",
+    "project_id": "jaychatzone-a70b8",
+    "storage_bucket": "jaychatzone-a70b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59071858855:android:c8869eb7354951d9a43382",
+        "android_client_info": {
+          "package_name": "com.example.jay_chat_zone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx_nIww9rG6J6a8wvzonA7aRZS3sZvpaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
